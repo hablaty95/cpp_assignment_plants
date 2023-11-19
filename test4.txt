@@ -1,0 +1,8 @@
+6
+Pufi p 2
+Pufibb p 5
+Kisdelta d 2
+Nagydelta d 7
+Oriasdelta d 15
+Semlegeske b 10
+10

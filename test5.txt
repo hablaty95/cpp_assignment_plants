@@ -1,0 +1,5 @@
+3
+Pufi p 5
+Delta d 50
+Bokor b 99
+50

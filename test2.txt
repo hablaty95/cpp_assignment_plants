@@ -1,0 +1,5 @@
+3
+Nagypuff p 5
+Kifpuff p 1
+Oriaspuff p 9
+1
